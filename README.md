@@ -1,3 +1,10 @@
+
+## Learning smart contracts - ganache-cli - truffle
+<blockquote>
+<p dir="auto">
+Please find the documents and code sample for learning smart contracts - ganache-cli - truffle form this link https://github.com/hakimehmordadi/Truffle-Ganache-for-deploying-contracts/edit/main/README.md</p>
+</blockquote>
+
 # Project Description
 
 This is a simple implementation of backend integration with blockchain. 
